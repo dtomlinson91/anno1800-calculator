@@ -1,0 +1,9 @@
+[
+  { "text": "Building", "value": "building" },
+  { "text": "Feeds Into", "value": "feeds_into" },
+  { "text": "Chain", "value": "chain" },
+  { "text": "Tier", "value": "tier" },
+  { "text": "Final Building?", "value": "final_building" },
+  { "text": "Improved By Electricity?", "value": "improved_by_electricity" },
+  { "text": "Base Duration", "value": "base_duration" }
+]

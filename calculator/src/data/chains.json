@@ -1,0 +1,1235 @@
+[
+  {
+    "building": "Sawmill",
+    "feeds_into": "N/A",
+    "chain": "Timber",
+    "tier": "Workers",
+    "final_building": "Yes",
+    "improved_by_electricity": "Yes",
+    "base_duration": 15
+  },
+  {
+    "building": "Lumberjack's Hut",
+    "feeds_into": "Sawmill",
+    "chain": "Timber",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 15
+  },
+  {
+    "building": "Clay Pit",
+    "feeds_into": "Brick Factory",
+    "chain": "Bricks",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Brick Factory",
+    "feeds_into": "N/A",
+    "chain": "Bricks",
+    "tier": "Workers",
+    "final_building": "Yes",
+    "improved_by_electricity": "Yes",
+    "base_duration": 60
+  },
+  {
+    "building": "Charcoal Kiln",
+    "feeds_into": "Furnace",
+    "chain": "Beams",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Iron Mine",
+    "feeds_into": "Furnace",
+    "chain": "Beams",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 15
+  },
+  {
+    "building": "Furnace",
+    "feeds_into": "Steelworks",
+    "chain": "Beams",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Steelworks",
+    "feeds_into": "N/A",
+    "chain": "Beams",
+    "tier": "Workers",
+    "final_building": "Yes",
+    "improved_by_electricity": "Yes",
+    "base_duration": 45
+  },
+  {
+    "building": "Iron Mine",
+    "feeds_into": "Furnace",
+    "chain": "Weapons",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 15
+  },
+  {
+    "building": "Coal Mine",
+    "feeds_into": "Furnace",
+    "chain": "Weapons",
+    "tier": "Artisans",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 15
+  },
+  {
+    "building": "Charcoal Kiln",
+    "feeds_into": "Furnace",
+    "chain": "Weapons",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Furnace",
+    "feeds_into": "Weapon Factory",
+    "chain": "Weapons",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Weapon Factory",
+    "feeds_into": "N/A",
+    "chain": "Weapons",
+    "tier": "Workers",
+    "final_building": "Yes",
+    "improved_by_electricity": "Yes",
+    "base_duration": 90
+  },
+  {
+    "building": "Window Makers",
+    "feeds_into": "N/A",
+    "chain": "Windows",
+    "tier": "Artisans",
+    "final_building": "Yes",
+    "improved_by_electricity": "Yes",
+    "base_duration": 60
+  },
+  {
+    "building": "Lumberjack's Hut",
+    "feeds_into": "Window Makers",
+    "chain": "Windows",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 15
+  },
+  {
+    "building": "Glassmakers",
+    "feeds_into": "Window Makers",
+    "chain": "Windows",
+    "tier": "Artisans",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Sand Mine",
+    "feeds_into": "Glassmakers",
+    "chain": "Windows",
+    "tier": "Artisans",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Concrete Factory",
+    "feeds_into": "N/A",
+    "chain": "Reinforced Concrete",
+    "tier": "Engineers",
+    "final_building": "Yes",
+    "improved_by_electricity": "Yes",
+    "base_duration": 60
+  },
+  {
+    "building": "Limestone Quarry",
+    "feeds_into": "Concrete Factory",
+    "chain": "Reinforced Concrete",
+    "tier": "Engineers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Furnace",
+    "feeds_into": "Concrete Factory",
+    "chain": "Reinforced Concrete",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Iron Mine",
+    "feeds_into": "Furnace",
+    "chain": "Reinforced Concrete",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 15
+  },
+  {
+    "building": "Charcoal Kiln",
+    "feeds_into": "Furnace",
+    "chain": "Reinforced Concrete",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Sailmakers",
+    "feeds_into": "N/A",
+    "chain": "Sails",
+    "tier": "Workers",
+    "final_building": "Yes",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Sheep Farm",
+    "feeds_into": "Sailmakers",
+    "chain": "Sails",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Heavy Weapons Factory",
+    "feeds_into": "N/A",
+    "chain": "Advanced Weapons",
+    "tier": "Engineers",
+    "final_building": "Yes",
+    "improved_by_electricity": "Required",
+    "base_duration": 120
+  },
+  {
+    "building": "Furnace",
+    "feeds_into": "Heavy Weapons Factory",
+    "chain": "Advanced Weapons",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Dynamite Factory",
+    "feeds_into": "Heavy Weapons Factory",
+    "chain": "Advanced Weapons",
+    "tier": "Engineers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 60
+  },
+  {
+    "building": "Iron Mine",
+    "feeds_into": "Furnace",
+    "chain": "Advanced Weapons",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 15
+  },
+  {
+    "building": "Charcoal Kiln",
+    "feeds_into": "Furnace",
+    "chain": "Advanced Weapons",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Salpetre Works",
+    "feeds_into": "Dynamite Factory",
+    "chain": "Advanced Weapons",
+    "tier": "Engineers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 120
+  },
+  {
+    "building": "Rendering Work",
+    "feeds_into": "Dynamite Factory",
+    "chain": "Advanced Weapons",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 60
+  },
+  {
+    "building": "Pig Farm",
+    "feeds_into": "Rendering Work",
+    "chain": "Advanced Weapons",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 60
+  },
+  {
+    "building": "Fishery",
+    "feeds_into": "N/A",
+    "chain": "Fish",
+    "tier": "Workers",
+    "final_building": "Yes",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Schnapps Distillery",
+    "feeds_into": "N/A",
+    "chain": "Schnapps",
+    "tier": "Workers",
+    "final_building": "Yes",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Potato Farm",
+    "feeds_into": "Schnapps Distillery",
+    "chain": "Schnapps",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Framework Knitters",
+    "feeds_into": "N/A",
+    "chain": "Work Clothes",
+    "tier": "Workers",
+    "final_building": "Yes",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Sheep Farm",
+    "feeds_into": "Framework Knitters",
+    "chain": "Work Clothes",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Butcher's",
+    "feeds_into": "N/A",
+    "chain": "Sausages",
+    "tier": "Workers",
+    "final_building": "Yes",
+    "improved_by_electricity": "Yes",
+    "base_duration": 60
+  },
+  {
+    "building": "Pig Farm",
+    "feeds_into": "Butcher's",
+    "chain": "Sausages",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 60
+  },
+  {
+    "building": "Bakery",
+    "feeds_into": "N/A",
+    "chain": "Bread",
+    "tier": "Workers",
+    "final_building": "Yes",
+    "improved_by_electricity": "Yes",
+    "base_duration": 60
+  },
+  {
+    "building": "Flour Mill",
+    "feeds_into": "Bakery",
+    "chain": "Bread",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Grain Farm",
+    "feeds_into": "Flour Mill",
+    "chain": "Bread",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 60
+  },
+  {
+    "building": "Soap Factory",
+    "feeds_into": "N/A",
+    "chain": "Soap",
+    "tier": "Workers",
+    "final_building": "Yes",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Rendering Work",
+    "feeds_into": "Soap Factory",
+    "chain": "Soap",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 60
+  },
+  {
+    "building": "Pig Farm",
+    "feeds_into": "Rendering Work",
+    "chain": "Soap",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 60
+  },
+  {
+    "building": "Grain Farm",
+    "feeds_into": "Malthouse",
+    "chain": "Beer",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 60
+  },
+  {
+    "building": "Malthouse",
+    "feeds_into": "Brewery",
+    "chain": "Beer",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Hop Farm",
+    "feeds_into": "Brewery",
+    "chain": "Beer",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 90
+  },
+  {
+    "building": "Brewery",
+    "feeds_into": "N/A",
+    "chain": "Beer",
+    "tier": "Workers",
+    "final_building": "Yes",
+    "improved_by_electricity": "Yes",
+    "base_duration": 60
+  },
+  {
+    "building": "Cattle Farm",
+    "feeds_into": "Artisnal Kitchen",
+    "chain": "Canned Food",
+    "tier": "Artisans",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 120
+  },
+  {
+    "building": "Red Pepper Farm",
+    "feeds_into": "Artisnal Kitchen",
+    "chain": "Canned Food",
+    "tier": "Artisans",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 120
+  },
+  {
+    "building": "Artisnal Kitchen",
+    "feeds_into": "Cannery",
+    "chain": "Canned Food",
+    "tier": "Artisans",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 120
+  },
+  {
+    "building": "Iron Mine",
+    "feeds_into": "Cannery",
+    "chain": "Canned Food",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 15
+  },
+  {
+    "building": "Cannery",
+    "feeds_into": "N/A",
+    "chain": "Canned Food",
+    "tier": "Artisans",
+    "final_building": "Yes",
+    "improved_by_electricity": "Yes",
+    "base_duration": 90
+  },
+  {
+    "building": "Sewing Machine Factory",
+    "feeds_into": "N/A",
+    "chain": "Sewing  Machines",
+    "tier": "Artisans",
+    "final_building": "Yes",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Lumberjack's Hut",
+    "feeds_into": "Sewing Machine Factory",
+    "chain": "Sewing  Machines",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 15
+  },
+  {
+    "building": "Furnace",
+    "feeds_into": "Sewing Machine Factory",
+    "chain": "Sewing  Machines",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Iron Mine",
+    "feeds_into": "Furnace",
+    "chain": "Sewing  Machines",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 15
+  },
+  {
+    "building": "Charcoal Kiln",
+    "feeds_into": "Furnace",
+    "chain": "Sewing  Machines",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Rum Distillery",
+    "feeds_into": "N/A",
+    "chain": "Rum",
+    "tier": "Journaleros",
+    "final_building": "Yes",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Lumberjack's Hut",
+    "feeds_into": "Rum Distillery",
+    "chain": "Rum",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 15
+  },
+  {
+    "building": "Sugar Cane Plantation",
+    "feeds_into": "Rum Distillery",
+    "chain": "Rum",
+    "tier": "Journaleros",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Fur Dealer",
+    "feeds_into": "N/A",
+    "chain": "Fur Coats",
+    "tier": "Artisans",
+    "final_building": "Yes",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Hunting Cabin",
+    "feeds_into": "Fur Dealer",
+    "chain": "Fur Coats",
+    "tier": "Artisans",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 60
+  },
+  {
+    "building": "Cotton Mill",
+    "feeds_into": "Fur Dealer",
+    "chain": "Fur Coats",
+    "tier": "Artisans",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Cotton Plantation",
+    "feeds_into": "Cotton Mill",
+    "chain": "Fur Coats",
+    "tier": "Artisans",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 60
+  },
+  {
+    "building": "Spectacle Factory",
+    "feeds_into": "N/A",
+    "chain": "Glasses",
+    "tier": "Engineers",
+    "final_building": "Yes",
+    "improved_by_electricity": "Yes",
+    "base_duration": 90
+  },
+  {
+    "building": "Glassmakers",
+    "feeds_into": "Spectacle Factory",
+    "chain": "Glasses",
+    "tier": "Artisans",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Brass Smeltery",
+    "feeds_into": "Spectacle Factory",
+    "chain": "Glasses",
+    "tier": "Engineers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 60
+  },
+  {
+    "building": "Sand Mine",
+    "feeds_into": "Glassmakers",
+    "chain": "Glasses",
+    "tier": "Artisans",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Zinc Mine",
+    "feeds_into": "Brass Smeltery",
+    "chain": "Glasses",
+    "tier": "Engineers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Copper Mine",
+    "feeds_into": "Brass Smeltery",
+    "chain": "Glasses",
+    "tier": "Engineers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Bicycle Factory",
+    "feeds_into": "N/A",
+    "chain": "Penny Farthings",
+    "tier": "Engineers",
+    "final_building": "Yes",
+    "improved_by_electricity": "Required",
+    "base_duration": 30
+  },
+  {
+    "building": "Caouthouc Plantation",
+    "feeds_into": "Bicycle Factory",
+    "chain": "Penny Farthings",
+    "tier": "Journaleros",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 60
+  },
+  {
+    "building": "Furnace",
+    "feeds_into": "Bicycle Factory",
+    "chain": "Penny Farthings",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Iron Mine",
+    "feeds_into": "Furnace",
+    "chain": "Penny Farthings",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 15
+  },
+  {
+    "building": "Charcoal Kiln",
+    "feeds_into": "Furnace",
+    "chain": "Penny Farthings",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Coffee Roaster",
+    "feeds_into": "N/A",
+    "chain": "Coffee",
+    "tier": "Obreros",
+    "final_building": "Yes",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Coffee Plantation",
+    "feeds_into": "Coffee Roaster",
+    "chain": "Coffee",
+    "tier": "Obreros",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 60
+  },
+  {
+    "building": "Clockmakers",
+    "feeds_into": "N/A",
+    "chain": "Pocket Watches",
+    "tier": "Engineers",
+    "final_building": "Yes",
+    "improved_by_electricity": "Required",
+    "base_duration": 90
+  },
+  {
+    "building": "Glassmakers",
+    "feeds_into": "Clockmakers",
+    "chain": "Pocket Watches",
+    "tier": "Artisans",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Goldsmiths",
+    "feeds_into": "Clockmakers",
+    "chain": "Pocket Watches",
+    "tier": "Engineers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 60
+  },
+  {
+    "building": "Sand Mine",
+    "feeds_into": "Glassmakers",
+    "chain": "Pocket Watches",
+    "tier": "Artisans",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Gold Mine",
+    "feeds_into": "Goldsmiths",
+    "chain": "Pocket Watches",
+    "tier": "Obreros",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 150
+  },
+  {
+    "building": "Charcoal Kiln",
+    "feeds_into": "Goldsmiths",
+    "chain": "Pocket Watches",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Light Bulb Factory",
+    "feeds_into": "N/A",
+    "chain": "Light Bulbs",
+    "tier": "Engineers",
+    "final_building": "Yes",
+    "improved_by_electricity": "Yes",
+    "base_duration": 60
+  },
+  {
+    "building": "Glassmakers",
+    "feeds_into": "Light Bulb Factory",
+    "chain": "Light Bulbs",
+    "tier": "Artisans",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Filament Factory",
+    "feeds_into": "Light Bulb Factory",
+    "chain": "Light Bulbs",
+    "tier": "Engineers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 60
+  },
+  {
+    "building": "Sand Mine",
+    "feeds_into": "Glassmakers",
+    "chain": "Light Bulbs",
+    "tier": "Artisans",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Charcoal Kiln",
+    "feeds_into": "Filament Factory",
+    "chain": "Light Bulbs",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Champagne Cellar",
+    "feeds_into": "N/A",
+    "chain": "Champagne",
+    "tier": "Investors",
+    "final_building": "Yes",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Vineyard",
+    "feeds_into": "Champagne Cellar",
+    "chain": "Champagne",
+    "tier": "Investors",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 120
+  },
+  {
+    "building": "Glassmakers",
+    "feeds_into": "Champagne Cellar",
+    "chain": "Champagne",
+    "tier": "Artisans",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Sand Mine",
+    "feeds_into": "Glassmakers",
+    "chain": "Champagne",
+    "tier": "Artisans",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Chocolate Factory",
+    "feeds_into": "N/A",
+    "chain": "Chocolate",
+    "tier": "Investors",
+    "final_building": "Yes",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Cocoa Plantation",
+    "feeds_into": "Chocolate Factory",
+    "chain": "Chocolate",
+    "tier": "Investors",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 60
+  },
+  {
+    "building": "Sugar Refinery",
+    "feeds_into": "Chocolate Factory",
+    "chain": "Chocolate",
+    "tier": "Investors",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Sugar Cane Plantation",
+    "feeds_into": "Sugar Refinery",
+    "chain": "Chocolate",
+    "tier": "Journaleros",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Jewellers",
+    "feeds_into": "N/A",
+    "chain": "Jewellery",
+    "tier": "Investors",
+    "final_building": "Yes",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Pearl Farm",
+    "feeds_into": "Jewellers",
+    "chain": "Jewellery",
+    "tier": "Journaleros",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 90
+  },
+  {
+    "building": "Goldsmiths",
+    "feeds_into": "Jewellers",
+    "chain": "Jewellery",
+    "tier": "Engineers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 60
+  },
+  {
+    "building": "Gold Mine",
+    "feeds_into": "Goldsmiths",
+    "chain": "Jewellery",
+    "tier": "Obreros",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 150
+  },
+  {
+    "building": "Charcoal Kiln",
+    "feeds_into": "Goldsmiths",
+    "chain": "Jewellery",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Gramophone Factory",
+    "feeds_into": "N/A",
+    "chain": "Gramophones",
+    "tier": "Investors",
+    "final_building": "Yes",
+    "improved_by_electricity": "Required",
+    "base_duration": 120
+  },
+  {
+    "building": "Marquetry Workshop",
+    "feeds_into": "Gramophone Factory",
+    "chain": "Gramophones",
+    "tier": "Investors",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 60
+  },
+  {
+    "building": "Brass Smeltery",
+    "feeds_into": "Gramophone Factory",
+    "chain": "Gramophones",
+    "tier": "Engineers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 60
+  },
+  {
+    "building": "Lumberjack's Hut",
+    "feeds_into": "Marquetry Workshop",
+    "chain": "Gramophones",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 15
+  },
+  {
+    "building": "Zinc Mine",
+    "feeds_into": "Brass Smeltery",
+    "chain": "Gramophones",
+    "tier": "Engineers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Copper Mine",
+    "feeds_into": "Brass Smeltery",
+    "chain": "Gramophones",
+    "tier": "Engineers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Cab Assembly Line",
+    "feeds_into": "N/A",
+    "chain": "Steam Carriages",
+    "tier": "Investors",
+    "final_building": "Yes",
+    "improved_by_electricity": "Required",
+    "base_duration": 60
+  },
+  {
+    "building": "Coachmakers",
+    "feeds_into": "Cab Assembly Line",
+    "chain": "Steam Carriages",
+    "tier": "Investors",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 120
+  },
+  {
+    "building": "Motor Assembly Line",
+    "feeds_into": "Cab Assembly Line",
+    "chain": "Steam Carriages",
+    "tier": "Engineers",
+    "final_building": "No",
+    "improved_by_electricity": "Required",
+    "base_duration": 90
+  },
+  {
+    "building": "Caoutchouc Plantation",
+    "feeds_into": "Coachmakers",
+    "chain": "Steam Carriages",
+    "tier": "Journaleros",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 60
+  },
+  {
+    "building": "Lumberjack's Hut",
+    "feeds_into": "Coachmakers",
+    "chain": "Steam Carriages",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 15
+  },
+  {
+    "building": "Furnace",
+    "feeds_into": "Motor Assembly Line",
+    "chain": "Steam Carriages",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Brass Smeltery",
+    "feeds_into": "Motor Assembly Line",
+    "chain": "Steam Carriages",
+    "tier": "Engineers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 60
+  },
+  {
+    "building": "Iron Mine",
+    "feeds_into": "Furnace",
+    "chain": "Steam Carriages",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 15
+  },
+  {
+    "building": "Charcoal Kiln",
+    "feeds_into": "Furnace",
+    "chain": "Steam Carriages",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Zinc Mine",
+    "feeds_into": "Brass Smeltery",
+    "chain": "Steam Carriages",
+    "tier": "Engineers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Copper Mine",
+    "feeds_into": "Brass Smeltery",
+    "chain": "Steam Carriages",
+    "tier": "Engineers",
+    "final_building": "No",
+    "improved_by_electricity": "Yes",
+    "base_duration": 30
+  },
+  {
+    "building": "Cigar Factory",
+    "feeds_into": "N/A",
+    "chain": "Cigars",
+    "tier": "Obreros",
+    "final_building": "Yes",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Tobacco Plantation",
+    "feeds_into": "Cigar Factory",
+    "chain": "Cigars",
+    "tier": "Obreros",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 120
+  },
+  {
+    "building": "Marqutry Workshop",
+    "feeds_into": "Cigar Factory",
+    "chain": "Cigars",
+    "tier": "Investors",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 60
+  },
+  {
+    "building": "Lumberjack's Hut",
+    "feeds_into": "Marqutry Workshop",
+    "chain": "Cigars",
+    "tier": "Workers",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 15
+  },
+  {
+    "building": "Fried Plantain Kitchen",
+    "feeds_into": "N/A",
+    "chain": "Fried Plantains",
+    "tier": "Journaleros",
+    "final_building": "Yes",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Fish Oil Factory",
+    "feeds_into": "Fried Banana Kitchen",
+    "chain": "Fried Plantains",
+    "tier": "Journaleros",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Plantain Plantation",
+    "feeds_into": "Fried Banana Kitchen",
+    "chain": "Fried Plantains",
+    "tier": "Journaleros",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Poncho Darner",
+    "feeds_into": "N/A",
+    "chain": "Ponchos",
+    "tier": "Journaleros",
+    "final_building": "Yes",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Alpaca Farm",
+    "feeds_into": "Poncho Darner",
+    "chain": "Ponchos",
+    "tier": "Journaleros",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Tortilla Maker",
+    "feeds_into": "N/A",
+    "chain": "Tortillas",
+    "tier": "Obreros",
+    "final_building": "Yes",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Cattle Farm",
+    "feeds_into": "Tortilla Maker",
+    "chain": "Tortillas",
+    "tier": "Artisans",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 60
+  },
+  {
+    "building": "Corn Farm",
+    "feeds_into": "Tortilla Maker",
+    "chain": "Tortillas",
+    "tier": "Obreros",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 60
+  },
+  {
+    "building": "Bombin Weaver",
+    "feeds_into": "N/A",
+    "chain": "Bombins",
+    "tier": "Obreros",
+    "final_building": "Yes",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Felt Producer",
+    "feeds_into": "Bombin Weaver",
+    "chain": "Bombins",
+    "tier": "Obreros",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Cotton Mill",
+    "feeds_into": "Bombin Weaver",
+    "chain": "Bombins",
+    "tier": "Journaleros",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Alpaca Farm",
+    "feeds_into": "Felt Producer",
+    "chain": "Bombins",
+    "tier": "Journaleros",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 30
+  },
+  {
+    "building": "Cotton Plantation",
+    "feeds_into": "Cotton Mill",
+    "chain": "Bombins",
+    "tier": "Journaleros",
+    "final_building": "No",
+    "improved_by_electricity": "No",
+    "base_duration": 60
+  }
+]
