@@ -1,9 +1,13 @@
 [
-  { "text": "Building", "value": "building" },
-  { "text": "Feeds Into", "value": "feeds_into" },
-  { "text": "Chain", "value": "chain" },
-  { "text": "Tier", "value": "tier" },
-  { "text": "Final Building?", "value": "final_building" },
-  { "text": "Improved By Electricity?", "value": "improved_by_electricity" },
-  { "text": "Base Duration", "value": "base_duration" }
+  { "text": "Building", "value": "building", "groupable": false },
+  { "text": "Feeds Into", "value": "feeds_into", "groupable": false },
+  { "text": "Chain", "value": "chain", "groupable": true },
+  { "text": "Tier", "value": "tier", "groupable": false },
+  { "text": "Final Building?", "value": "final_building", "groupable": false },
+  {
+    "text": "Improved By Electricity?",
+    "value": "improved_by_electricity",
+    "groupable": false
+  },
+  { "text": "Base Duration", "value": "base_duration", "groupable": false }
 ]
