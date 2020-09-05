@@ -10,6 +10,7 @@
     <v-row>
       <v-col cols="12">
         <v-select
+          v-model="selected_chains"
           :items="get_production_chains()"
           label="Select chains"
           chips
@@ -23,7 +24,7 @@
       <v-col cols="12">
         <v-data-table
           :headers="initial_data.headers"
-          :items="initial_data.raw"
+          :items="get_calculator_data"
           :items-per-page="200"
           group-by="chain"
           show-group-by
@@ -46,19 +47,33 @@ export default {
       raw: Chains,
     },
     calculator_data: {
-      headers: [],
+      headers: ChainsHeaders,
       raw: [],
     },
+    selected_chains: [],
   }),
   methods: {
     get_production_chains: function() {
-      let chains = []
+      const chains = [];
       for (let i = 0; i < this.initial_data.raw.length; i++) {
-        chains.push(this.initial_data.raw[i].chain)
+        chains.push(this.initial_data.raw[i].chain);
       }
-      return [...new Set(chains)]
-    }
-  }
+      return [...new Set(chains)];
+    },
+  },
+  computed: {
+    get_calculator_data: function() {
+      const new_data = [];
+      for (let i = 0; i < this.selected_chains.length; i++) {
+        for (let j = 0; j < this.initial_data.raw.length; j++) {
+          if (this.selected_chains[i] === this.initial_data.raw[j].chain) {
+            new_data.push(this.initial_data.raw[j]);
+          }
+        }
+      }
+      return new_data;
+    },
+  },
 };
 </script>
 
