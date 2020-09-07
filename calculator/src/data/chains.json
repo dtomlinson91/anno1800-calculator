@@ -4,7 +4,7 @@
     "feeds_into": "N/A",
     "chain": "Timber",
     "tier": "Workers",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": true,
     "base_duration": 15
   },
@@ -13,7 +13,7 @@
     "feeds_into": "Sawmill",
     "chain": "Timber",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 15
   },
@@ -22,7 +22,7 @@
     "feeds_into": "Brick Factory",
     "chain": "Bricks",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -31,7 +31,7 @@
     "feeds_into": "N/A",
     "chain": "Bricks",
     "tier": "Workers",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": true,
     "base_duration": 60
   },
@@ -40,7 +40,7 @@
     "feeds_into": "Furnace",
     "chain": "Beams",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -49,7 +49,7 @@
     "feeds_into": "Furnace",
     "chain": "Beams",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 15
   },
@@ -58,7 +58,7 @@
     "feeds_into": "Steelworks",
     "chain": "Beams",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -67,7 +67,7 @@
     "feeds_into": "N/A",
     "chain": "Beams",
     "tier": "Workers",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": true,
     "base_duration": 45
   },
@@ -76,7 +76,7 @@
     "feeds_into": "Furnace",
     "chain": "Weapons",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 15
   },
@@ -85,7 +85,7 @@
     "feeds_into": "Furnace",
     "chain": "Weapons",
     "tier": "Artisans",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 15
   },
@@ -94,7 +94,7 @@
     "feeds_into": "Furnace",
     "chain": "Weapons",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -103,7 +103,7 @@
     "feeds_into": "Weapon Factory",
     "chain": "Weapons",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -112,7 +112,7 @@
     "feeds_into": "N/A",
     "chain": "Weapons",
     "tier": "Workers",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": true,
     "base_duration": 90
   },
@@ -121,7 +121,7 @@
     "feeds_into": "N/A",
     "chain": "Windows",
     "tier": "Artisans",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": true,
     "base_duration": 60
   },
@@ -130,7 +130,7 @@
     "feeds_into": "Window Makers",
     "chain": "Windows",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 15
   },
@@ -139,7 +139,7 @@
     "feeds_into": "Window Makers",
     "chain": "Windows",
     "tier": "Artisans",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -148,7 +148,7 @@
     "feeds_into": "Glassmakers",
     "chain": "Windows",
     "tier": "Artisans",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -157,7 +157,7 @@
     "feeds_into": "N/A",
     "chain": "Reinforced Concrete",
     "tier": "Engineers",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": true,
     "base_duration": 60
   },
@@ -166,7 +166,7 @@
     "feeds_into": "Concrete Factory",
     "chain": "Reinforced Concrete",
     "tier": "Engineers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -175,7 +175,7 @@
     "feeds_into": "Concrete Factory",
     "chain": "Reinforced Concrete",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -184,7 +184,7 @@
     "feeds_into": "Furnace",
     "chain": "Reinforced Concrete",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 15
   },
@@ -193,7 +193,7 @@
     "feeds_into": "Furnace",
     "chain": "Reinforced Concrete",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -202,7 +202,7 @@
     "feeds_into": "N/A",
     "chain": "Sails",
     "tier": "Workers",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -211,7 +211,7 @@
     "feeds_into": "Sailmakers",
     "chain": "Sails",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -220,7 +220,7 @@
     "feeds_into": "N/A",
     "chain": "Advanced Weapons",
     "tier": "Engineers",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": "Required",
     "base_duration": 120
   },
@@ -229,7 +229,7 @@
     "feeds_into": "Heavy Weapons Factory",
     "chain": "Advanced Weapons",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -238,7 +238,7 @@
     "feeds_into": "Heavy Weapons Factory",
     "chain": "Advanced Weapons",
     "tier": "Engineers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 60
   },
@@ -247,7 +247,7 @@
     "feeds_into": "Furnace",
     "chain": "Advanced Weapons",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 15
   },
@@ -256,7 +256,7 @@
     "feeds_into": "Furnace",
     "chain": "Advanced Weapons",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -265,7 +265,7 @@
     "feeds_into": "Dynamite Factory",
     "chain": "Advanced Weapons",
     "tier": "Engineers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 120
   },
@@ -274,7 +274,7 @@
     "feeds_into": "Dynamite Factory",
     "chain": "Advanced Weapons",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 60
   },
@@ -283,7 +283,7 @@
     "feeds_into": "Rendering Work",
     "chain": "Advanced Weapons",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 60
   },
@@ -292,7 +292,7 @@
     "feeds_into": "N/A",
     "chain": "Fish",
     "tier": "Workers",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -301,7 +301,7 @@
     "feeds_into": "N/A",
     "chain": "Schnapps",
     "tier": "Workers",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -310,7 +310,7 @@
     "feeds_into": "Schnapps Distillery",
     "chain": "Schnapps",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -319,7 +319,7 @@
     "feeds_into": "N/A",
     "chain": "Work Clothes",
     "tier": "Workers",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -328,7 +328,7 @@
     "feeds_into": "Framework Knitters",
     "chain": "Work Clothes",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -337,7 +337,7 @@
     "feeds_into": "N/A",
     "chain": "Sausages",
     "tier": "Workers",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": true,
     "base_duration": 60
   },
@@ -346,7 +346,7 @@
     "feeds_into": "Butcher's",
     "chain": "Sausages",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 60
   },
@@ -355,7 +355,7 @@
     "feeds_into": "N/A",
     "chain": "Bread",
     "tier": "Workers",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": true,
     "base_duration": 60
   },
@@ -364,7 +364,7 @@
     "feeds_into": "Bakery",
     "chain": "Bread",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -373,7 +373,7 @@
     "feeds_into": "Flour Mill",
     "chain": "Bread",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 60
   },
@@ -382,7 +382,7 @@
     "feeds_into": "N/A",
     "chain": "Soap",
     "tier": "Workers",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -391,7 +391,7 @@
     "feeds_into": "Soap Factory",
     "chain": "Soap",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 60
   },
@@ -400,7 +400,7 @@
     "feeds_into": "Rendering Work",
     "chain": "Soap",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 60
   },
@@ -409,7 +409,7 @@
     "feeds_into": "Malthouse",
     "chain": "Beer",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 60
   },
@@ -418,7 +418,7 @@
     "feeds_into": "Brewery",
     "chain": "Beer",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -427,7 +427,7 @@
     "feeds_into": "Brewery",
     "chain": "Beer",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 90
   },
@@ -436,7 +436,7 @@
     "feeds_into": "N/A",
     "chain": "Beer",
     "tier": "Workers",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": true,
     "base_duration": 60
   },
@@ -445,7 +445,7 @@
     "feeds_into": "Artisnal Kitchen",
     "chain": "Canned Food",
     "tier": "Artisans",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 120
   },
@@ -454,7 +454,7 @@
     "feeds_into": "Artisnal Kitchen",
     "chain": "Canned Food",
     "tier": "Artisans",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 120
   },
@@ -463,7 +463,7 @@
     "feeds_into": "Cannery",
     "chain": "Canned Food",
     "tier": "Artisans",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 120
   },
@@ -472,7 +472,7 @@
     "feeds_into": "Cannery",
     "chain": "Canned Food",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 15
   },
@@ -481,7 +481,7 @@
     "feeds_into": "N/A",
     "chain": "Canned Food",
     "tier": "Artisans",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": true,
     "base_duration": 90
   },
@@ -490,7 +490,7 @@
     "feeds_into": "N/A",
     "chain": "Sewing  Machines",
     "tier": "Artisans",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -499,7 +499,7 @@
     "feeds_into": "Sewing Machine Factory",
     "chain": "Sewing  Machines",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 15
   },
@@ -508,7 +508,7 @@
     "feeds_into": "Sewing Machine Factory",
     "chain": "Sewing  Machines",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -517,7 +517,7 @@
     "feeds_into": "Furnace",
     "chain": "Sewing  Machines",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 15
   },
@@ -526,7 +526,7 @@
     "feeds_into": "Furnace",
     "chain": "Sewing  Machines",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -535,7 +535,7 @@
     "feeds_into": "N/A",
     "chain": "Rum",
     "tier": "Journaleros",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -544,7 +544,7 @@
     "feeds_into": "Rum Distillery",
     "chain": "Rum",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 15
   },
@@ -553,7 +553,7 @@
     "feeds_into": "Rum Distillery",
     "chain": "Rum",
     "tier": "Journaleros",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -562,7 +562,7 @@
     "feeds_into": "N/A",
     "chain": "Fur Coats",
     "tier": "Artisans",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -571,7 +571,7 @@
     "feeds_into": "Fur Dealer",
     "chain": "Fur Coats",
     "tier": "Artisans",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 60
   },
@@ -580,7 +580,7 @@
     "feeds_into": "Fur Dealer",
     "chain": "Fur Coats",
     "tier": "Artisans",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -589,7 +589,7 @@
     "feeds_into": "Cotton Mill",
     "chain": "Fur Coats",
     "tier": "Artisans",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 60
   },
@@ -598,7 +598,7 @@
     "feeds_into": "N/A",
     "chain": "Glasses",
     "tier": "Engineers",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": true,
     "base_duration": 90
   },
@@ -607,7 +607,7 @@
     "feeds_into": "Spectacle Factory",
     "chain": "Glasses",
     "tier": "Artisans",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -616,7 +616,7 @@
     "feeds_into": "Spectacle Factory",
     "chain": "Glasses",
     "tier": "Engineers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 60
   },
@@ -625,7 +625,7 @@
     "feeds_into": "Glassmakers",
     "chain": "Glasses",
     "tier": "Artisans",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -634,7 +634,7 @@
     "feeds_into": "Brass Smeltery",
     "chain": "Glasses",
     "tier": "Engineers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -643,7 +643,7 @@
     "feeds_into": "Brass Smeltery",
     "chain": "Glasses",
     "tier": "Engineers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -652,7 +652,7 @@
     "feeds_into": "N/A",
     "chain": "Penny Farthings",
     "tier": "Engineers",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": "Required",
     "base_duration": 30
   },
@@ -661,7 +661,7 @@
     "feeds_into": "Bicycle Factory",
     "chain": "Penny Farthings",
     "tier": "Journaleros",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 60
   },
@@ -670,7 +670,7 @@
     "feeds_into": "Bicycle Factory",
     "chain": "Penny Farthings",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -679,7 +679,7 @@
     "feeds_into": "Furnace",
     "chain": "Penny Farthings",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 15
   },
@@ -688,7 +688,7 @@
     "feeds_into": "Furnace",
     "chain": "Penny Farthings",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -697,7 +697,7 @@
     "feeds_into": "N/A",
     "chain": "Coffee",
     "tier": "Obreros",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -706,7 +706,7 @@
     "feeds_into": "Coffee Roaster",
     "chain": "Coffee",
     "tier": "Obreros",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 60
   },
@@ -715,7 +715,7 @@
     "feeds_into": "N/A",
     "chain": "Pocket Watches",
     "tier": "Engineers",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": "Required",
     "base_duration": 90
   },
@@ -724,7 +724,7 @@
     "feeds_into": "Clockmakers",
     "chain": "Pocket Watches",
     "tier": "Artisans",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -733,7 +733,7 @@
     "feeds_into": "Clockmakers",
     "chain": "Pocket Watches",
     "tier": "Engineers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 60
   },
@@ -742,7 +742,7 @@
     "feeds_into": "Glassmakers",
     "chain": "Pocket Watches",
     "tier": "Artisans",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -751,7 +751,7 @@
     "feeds_into": "Goldsmiths",
     "chain": "Pocket Watches",
     "tier": "Obreros",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 150
   },
@@ -760,7 +760,7 @@
     "feeds_into": "Goldsmiths",
     "chain": "Pocket Watches",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -769,7 +769,7 @@
     "feeds_into": "N/A",
     "chain": "Light Bulbs",
     "tier": "Engineers",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": true,
     "base_duration": 60
   },
@@ -778,7 +778,7 @@
     "feeds_into": "Light Bulb Factory",
     "chain": "Light Bulbs",
     "tier": "Artisans",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -787,7 +787,7 @@
     "feeds_into": "Light Bulb Factory",
     "chain": "Light Bulbs",
     "tier": "Engineers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 60
   },
@@ -796,7 +796,7 @@
     "feeds_into": "Glassmakers",
     "chain": "Light Bulbs",
     "tier": "Artisans",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -805,7 +805,7 @@
     "feeds_into": "Filament Factory",
     "chain": "Light Bulbs",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -814,7 +814,7 @@
     "feeds_into": "N/A",
     "chain": "Champagne",
     "tier": "Investors",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -823,7 +823,7 @@
     "feeds_into": "Champagne Cellar",
     "chain": "Champagne",
     "tier": "Investors",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 120
   },
@@ -832,7 +832,7 @@
     "feeds_into": "Champagne Cellar",
     "chain": "Champagne",
     "tier": "Artisans",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -841,7 +841,7 @@
     "feeds_into": "Glassmakers",
     "chain": "Champagne",
     "tier": "Artisans",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -850,7 +850,7 @@
     "feeds_into": "N/A",
     "chain": "Chocolate",
     "tier": "Investors",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -859,7 +859,7 @@
     "feeds_into": "Chocolate Factory",
     "chain": "Chocolate",
     "tier": "Investors",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 60
   },
@@ -868,7 +868,7 @@
     "feeds_into": "Chocolate Factory",
     "chain": "Chocolate",
     "tier": "Investors",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -877,7 +877,7 @@
     "feeds_into": "Sugar Refinery",
     "chain": "Chocolate",
     "tier": "Journaleros",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -886,7 +886,7 @@
     "feeds_into": "N/A",
     "chain": "Jewellery",
     "tier": "Investors",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -895,7 +895,7 @@
     "feeds_into": "Jewellers",
     "chain": "Jewellery",
     "tier": "Journaleros",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 90
   },
@@ -904,7 +904,7 @@
     "feeds_into": "Jewellers",
     "chain": "Jewellery",
     "tier": "Engineers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 60
   },
@@ -913,7 +913,7 @@
     "feeds_into": "Goldsmiths",
     "chain": "Jewellery",
     "tier": "Obreros",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 150
   },
@@ -922,7 +922,7 @@
     "feeds_into": "Goldsmiths",
     "chain": "Jewellery",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -931,7 +931,7 @@
     "feeds_into": "N/A",
     "chain": "Gramophones",
     "tier": "Investors",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": "Required",
     "base_duration": 120
   },
@@ -940,7 +940,7 @@
     "feeds_into": "Gramophone Factory",
     "chain": "Gramophones",
     "tier": "Investors",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 60
   },
@@ -949,7 +949,7 @@
     "feeds_into": "Gramophone Factory",
     "chain": "Gramophones",
     "tier": "Engineers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 60
   },
@@ -958,7 +958,7 @@
     "feeds_into": "Marquetry Workshop",
     "chain": "Gramophones",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 15
   },
@@ -967,7 +967,7 @@
     "feeds_into": "Brass Smeltery",
     "chain": "Gramophones",
     "tier": "Engineers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -976,7 +976,7 @@
     "feeds_into": "Brass Smeltery",
     "chain": "Gramophones",
     "tier": "Engineers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -985,7 +985,7 @@
     "feeds_into": "N/A",
     "chain": "Steam Carriages",
     "tier": "Investors",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": "Required",
     "base_duration": 60
   },
@@ -994,7 +994,7 @@
     "feeds_into": "Cab Assembly Line",
     "chain": "Steam Carriages",
     "tier": "Investors",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 120
   },
@@ -1003,7 +1003,7 @@
     "feeds_into": "Cab Assembly Line",
     "chain": "Steam Carriages",
     "tier": "Engineers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": "Required",
     "base_duration": 90
   },
@@ -1012,7 +1012,7 @@
     "feeds_into": "Coachmakers",
     "chain": "Steam Carriages",
     "tier": "Journaleros",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 60
   },
@@ -1021,7 +1021,7 @@
     "feeds_into": "Coachmakers",
     "chain": "Steam Carriages",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 15
   },
@@ -1030,7 +1030,7 @@
     "feeds_into": "Motor Assembly Line",
     "chain": "Steam Carriages",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -1039,7 +1039,7 @@
     "feeds_into": "Motor Assembly Line",
     "chain": "Steam Carriages",
     "tier": "Engineers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 60
   },
@@ -1048,7 +1048,7 @@
     "feeds_into": "Furnace",
     "chain": "Steam Carriages",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 15
   },
@@ -1057,7 +1057,7 @@
     "feeds_into": "Furnace",
     "chain": "Steam Carriages",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -1066,7 +1066,7 @@
     "feeds_into": "Brass Smeltery",
     "chain": "Steam Carriages",
     "tier": "Engineers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -1075,7 +1075,7 @@
     "feeds_into": "Brass Smeltery",
     "chain": "Steam Carriages",
     "tier": "Engineers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": true,
     "base_duration": 30
   },
@@ -1084,7 +1084,7 @@
     "feeds_into": "N/A",
     "chain": "Cigars",
     "tier": "Obreros",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -1093,7 +1093,7 @@
     "feeds_into": "Cigar Factory",
     "chain": "Cigars",
     "tier": "Obreros",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 120
   },
@@ -1102,7 +1102,7 @@
     "feeds_into": "Cigar Factory",
     "chain": "Cigars",
     "tier": "Investors",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 60
   },
@@ -1111,7 +1111,7 @@
     "feeds_into": "Marqutry Workshop",
     "chain": "Cigars",
     "tier": "Workers",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 15
   },
@@ -1120,7 +1120,7 @@
     "feeds_into": "N/A",
     "chain": "Fried Plantains",
     "tier": "Journaleros",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -1129,7 +1129,7 @@
     "feeds_into": "Fried Banana Kitchen",
     "chain": "Fried Plantains",
     "tier": "Journaleros",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -1138,7 +1138,7 @@
     "feeds_into": "Fried Banana Kitchen",
     "chain": "Fried Plantains",
     "tier": "Journaleros",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -1147,7 +1147,7 @@
     "feeds_into": "N/A",
     "chain": "Ponchos",
     "tier": "Journaleros",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -1156,7 +1156,7 @@
     "feeds_into": "Poncho Darner",
     "chain": "Ponchos",
     "tier": "Journaleros",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -1165,7 +1165,7 @@
     "feeds_into": "N/A",
     "chain": "Tortillas",
     "tier": "Obreros",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -1174,7 +1174,7 @@
     "feeds_into": "Tortilla Maker",
     "chain": "Tortillas",
     "tier": "Artisans",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 60
   },
@@ -1183,7 +1183,7 @@
     "feeds_into": "Tortilla Maker",
     "chain": "Tortillas",
     "tier": "Obreros",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 60
   },
@@ -1192,7 +1192,7 @@
     "feeds_into": "N/A",
     "chain": "Bombins",
     "tier": "Obreros",
-    "final_building": "Yes",
+    "final_building": true,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -1201,7 +1201,7 @@
     "feeds_into": "Bombin Weaver",
     "chain": "Bombins",
     "tier": "Obreros",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -1210,7 +1210,7 @@
     "feeds_into": "Bombin Weaver",
     "chain": "Bombins",
     "tier": "Journaleros",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -1219,7 +1219,7 @@
     "feeds_into": "Felt Producer",
     "chain": "Bombins",
     "tier": "Journaleros",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 30
   },
@@ -1228,7 +1228,7 @@
     "feeds_into": "Cotton Mill",
     "chain": "Bombins",
     "tier": "Journaleros",
-    "final_building": "No",
+    "final_building": false,
     "improved_by_electricity": false,
     "base_duration": 60
   }
