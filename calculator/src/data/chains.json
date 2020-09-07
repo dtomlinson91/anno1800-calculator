@@ -5,7 +5,7 @@
     "chain": "Timber",
     "tier": "Workers",
     "final_building": "Yes",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 15
   },
   {
@@ -14,7 +14,7 @@
     "chain": "Timber",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 15
   },
   {
@@ -23,7 +23,7 @@
     "chain": "Bricks",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -32,7 +32,7 @@
     "chain": "Bricks",
     "tier": "Workers",
     "final_building": "Yes",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 60
   },
   {
@@ -41,7 +41,7 @@
     "chain": "Beams",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -50,7 +50,7 @@
     "chain": "Beams",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 15
   },
   {
@@ -59,7 +59,7 @@
     "chain": "Beams",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -68,7 +68,7 @@
     "chain": "Beams",
     "tier": "Workers",
     "final_building": "Yes",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 45
   },
   {
@@ -77,7 +77,7 @@
     "chain": "Weapons",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 15
   },
   {
@@ -86,7 +86,7 @@
     "chain": "Weapons",
     "tier": "Artisans",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 15
   },
   {
@@ -95,7 +95,7 @@
     "chain": "Weapons",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -104,7 +104,7 @@
     "chain": "Weapons",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -113,7 +113,7 @@
     "chain": "Weapons",
     "tier": "Workers",
     "final_building": "Yes",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 90
   },
   {
@@ -122,7 +122,7 @@
     "chain": "Windows",
     "tier": "Artisans",
     "final_building": "Yes",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 60
   },
   {
@@ -131,7 +131,7 @@
     "chain": "Windows",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 15
   },
   {
@@ -140,7 +140,7 @@
     "chain": "Windows",
     "tier": "Artisans",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -149,7 +149,7 @@
     "chain": "Windows",
     "tier": "Artisans",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -158,7 +158,7 @@
     "chain": "Reinforced Concrete",
     "tier": "Engineers",
     "final_building": "Yes",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 60
   },
   {
@@ -167,7 +167,7 @@
     "chain": "Reinforced Concrete",
     "tier": "Engineers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -176,7 +176,7 @@
     "chain": "Reinforced Concrete",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -185,7 +185,7 @@
     "chain": "Reinforced Concrete",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 15
   },
   {
@@ -194,7 +194,7 @@
     "chain": "Reinforced Concrete",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -203,7 +203,7 @@
     "chain": "Sails",
     "tier": "Workers",
     "final_building": "Yes",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -212,7 +212,7 @@
     "chain": "Sails",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -230,7 +230,7 @@
     "chain": "Advanced Weapons",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -239,7 +239,7 @@
     "chain": "Advanced Weapons",
     "tier": "Engineers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 60
   },
   {
@@ -248,7 +248,7 @@
     "chain": "Advanced Weapons",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 15
   },
   {
@@ -257,7 +257,7 @@
     "chain": "Advanced Weapons",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -266,7 +266,7 @@
     "chain": "Advanced Weapons",
     "tier": "Engineers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 120
   },
   {
@@ -275,7 +275,7 @@
     "chain": "Advanced Weapons",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 60
   },
   {
@@ -284,7 +284,7 @@
     "chain": "Advanced Weapons",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 60
   },
   {
@@ -293,7 +293,7 @@
     "chain": "Fish",
     "tier": "Workers",
     "final_building": "Yes",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -302,7 +302,7 @@
     "chain": "Schnapps",
     "tier": "Workers",
     "final_building": "Yes",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -311,7 +311,7 @@
     "chain": "Schnapps",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -320,7 +320,7 @@
     "chain": "Work Clothes",
     "tier": "Workers",
     "final_building": "Yes",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -329,7 +329,7 @@
     "chain": "Work Clothes",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -338,7 +338,7 @@
     "chain": "Sausages",
     "tier": "Workers",
     "final_building": "Yes",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 60
   },
   {
@@ -347,7 +347,7 @@
     "chain": "Sausages",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 60
   },
   {
@@ -356,7 +356,7 @@
     "chain": "Bread",
     "tier": "Workers",
     "final_building": "Yes",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 60
   },
   {
@@ -365,7 +365,7 @@
     "chain": "Bread",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -374,7 +374,7 @@
     "chain": "Bread",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 60
   },
   {
@@ -383,7 +383,7 @@
     "chain": "Soap",
     "tier": "Workers",
     "final_building": "Yes",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -392,7 +392,7 @@
     "chain": "Soap",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 60
   },
   {
@@ -401,7 +401,7 @@
     "chain": "Soap",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 60
   },
   {
@@ -410,7 +410,7 @@
     "chain": "Beer",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 60
   },
   {
@@ -419,7 +419,7 @@
     "chain": "Beer",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -428,7 +428,7 @@
     "chain": "Beer",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 90
   },
   {
@@ -437,7 +437,7 @@
     "chain": "Beer",
     "tier": "Workers",
     "final_building": "Yes",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 60
   },
   {
@@ -446,7 +446,7 @@
     "chain": "Canned Food",
     "tier": "Artisans",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 120
   },
   {
@@ -455,7 +455,7 @@
     "chain": "Canned Food",
     "tier": "Artisans",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 120
   },
   {
@@ -464,7 +464,7 @@
     "chain": "Canned Food",
     "tier": "Artisans",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 120
   },
   {
@@ -473,7 +473,7 @@
     "chain": "Canned Food",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 15
   },
   {
@@ -482,7 +482,7 @@
     "chain": "Canned Food",
     "tier": "Artisans",
     "final_building": "Yes",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 90
   },
   {
@@ -491,7 +491,7 @@
     "chain": "Sewing  Machines",
     "tier": "Artisans",
     "final_building": "Yes",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -500,7 +500,7 @@
     "chain": "Sewing  Machines",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 15
   },
   {
@@ -509,7 +509,7 @@
     "chain": "Sewing  Machines",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -518,7 +518,7 @@
     "chain": "Sewing  Machines",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 15
   },
   {
@@ -527,7 +527,7 @@
     "chain": "Sewing  Machines",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -536,7 +536,7 @@
     "chain": "Rum",
     "tier": "Journaleros",
     "final_building": "Yes",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -545,7 +545,7 @@
     "chain": "Rum",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 15
   },
   {
@@ -554,7 +554,7 @@
     "chain": "Rum",
     "tier": "Journaleros",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -563,7 +563,7 @@
     "chain": "Fur Coats",
     "tier": "Artisans",
     "final_building": "Yes",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -572,7 +572,7 @@
     "chain": "Fur Coats",
     "tier": "Artisans",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 60
   },
   {
@@ -581,7 +581,7 @@
     "chain": "Fur Coats",
     "tier": "Artisans",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -590,7 +590,7 @@
     "chain": "Fur Coats",
     "tier": "Artisans",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 60
   },
   {
@@ -599,7 +599,7 @@
     "chain": "Glasses",
     "tier": "Engineers",
     "final_building": "Yes",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 90
   },
   {
@@ -608,7 +608,7 @@
     "chain": "Glasses",
     "tier": "Artisans",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -617,7 +617,7 @@
     "chain": "Glasses",
     "tier": "Engineers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 60
   },
   {
@@ -626,7 +626,7 @@
     "chain": "Glasses",
     "tier": "Artisans",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -635,7 +635,7 @@
     "chain": "Glasses",
     "tier": "Engineers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -644,7 +644,7 @@
     "chain": "Glasses",
     "tier": "Engineers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -662,7 +662,7 @@
     "chain": "Penny Farthings",
     "tier": "Journaleros",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 60
   },
   {
@@ -671,7 +671,7 @@
     "chain": "Penny Farthings",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -680,7 +680,7 @@
     "chain": "Penny Farthings",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 15
   },
   {
@@ -689,7 +689,7 @@
     "chain": "Penny Farthings",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -698,7 +698,7 @@
     "chain": "Coffee",
     "tier": "Obreros",
     "final_building": "Yes",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -707,7 +707,7 @@
     "chain": "Coffee",
     "tier": "Obreros",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 60
   },
   {
@@ -725,7 +725,7 @@
     "chain": "Pocket Watches",
     "tier": "Artisans",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -734,7 +734,7 @@
     "chain": "Pocket Watches",
     "tier": "Engineers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 60
   },
   {
@@ -743,7 +743,7 @@
     "chain": "Pocket Watches",
     "tier": "Artisans",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -752,7 +752,7 @@
     "chain": "Pocket Watches",
     "tier": "Obreros",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 150
   },
   {
@@ -761,7 +761,7 @@
     "chain": "Pocket Watches",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -770,7 +770,7 @@
     "chain": "Light Bulbs",
     "tier": "Engineers",
     "final_building": "Yes",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 60
   },
   {
@@ -779,7 +779,7 @@
     "chain": "Light Bulbs",
     "tier": "Artisans",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -788,7 +788,7 @@
     "chain": "Light Bulbs",
     "tier": "Engineers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 60
   },
   {
@@ -797,7 +797,7 @@
     "chain": "Light Bulbs",
     "tier": "Artisans",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -806,7 +806,7 @@
     "chain": "Light Bulbs",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -815,7 +815,7 @@
     "chain": "Champagne",
     "tier": "Investors",
     "final_building": "Yes",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -824,7 +824,7 @@
     "chain": "Champagne",
     "tier": "Investors",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 120
   },
   {
@@ -833,7 +833,7 @@
     "chain": "Champagne",
     "tier": "Artisans",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -842,7 +842,7 @@
     "chain": "Champagne",
     "tier": "Artisans",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -851,7 +851,7 @@
     "chain": "Chocolate",
     "tier": "Investors",
     "final_building": "Yes",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -860,7 +860,7 @@
     "chain": "Chocolate",
     "tier": "Investors",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 60
   },
   {
@@ -869,7 +869,7 @@
     "chain": "Chocolate",
     "tier": "Investors",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -878,7 +878,7 @@
     "chain": "Chocolate",
     "tier": "Journaleros",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -887,7 +887,7 @@
     "chain": "Jewellery",
     "tier": "Investors",
     "final_building": "Yes",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -896,7 +896,7 @@
     "chain": "Jewellery",
     "tier": "Journaleros",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 90
   },
   {
@@ -905,7 +905,7 @@
     "chain": "Jewellery",
     "tier": "Engineers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 60
   },
   {
@@ -914,7 +914,7 @@
     "chain": "Jewellery",
     "tier": "Obreros",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 150
   },
   {
@@ -923,7 +923,7 @@
     "chain": "Jewellery",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -941,7 +941,7 @@
     "chain": "Gramophones",
     "tier": "Investors",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 60
   },
   {
@@ -950,7 +950,7 @@
     "chain": "Gramophones",
     "tier": "Engineers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 60
   },
   {
@@ -959,7 +959,7 @@
     "chain": "Gramophones",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 15
   },
   {
@@ -968,7 +968,7 @@
     "chain": "Gramophones",
     "tier": "Engineers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -977,7 +977,7 @@
     "chain": "Gramophones",
     "tier": "Engineers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -995,7 +995,7 @@
     "chain": "Steam Carriages",
     "tier": "Investors",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 120
   },
   {
@@ -1013,7 +1013,7 @@
     "chain": "Steam Carriages",
     "tier": "Journaleros",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 60
   },
   {
@@ -1022,7 +1022,7 @@
     "chain": "Steam Carriages",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 15
   },
   {
@@ -1031,7 +1031,7 @@
     "chain": "Steam Carriages",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -1040,7 +1040,7 @@
     "chain": "Steam Carriages",
     "tier": "Engineers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 60
   },
   {
@@ -1049,7 +1049,7 @@
     "chain": "Steam Carriages",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 15
   },
   {
@@ -1058,7 +1058,7 @@
     "chain": "Steam Carriages",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -1067,7 +1067,7 @@
     "chain": "Steam Carriages",
     "tier": "Engineers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -1076,7 +1076,7 @@
     "chain": "Steam Carriages",
     "tier": "Engineers",
     "final_building": "No",
-    "improved_by_electricity": "Yes",
+    "improved_by_electricity": true,
     "base_duration": 30
   },
   {
@@ -1085,7 +1085,7 @@
     "chain": "Cigars",
     "tier": "Obreros",
     "final_building": "Yes",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -1094,7 +1094,7 @@
     "chain": "Cigars",
     "tier": "Obreros",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 120
   },
   {
@@ -1103,7 +1103,7 @@
     "chain": "Cigars",
     "tier": "Investors",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 60
   },
   {
@@ -1112,7 +1112,7 @@
     "chain": "Cigars",
     "tier": "Workers",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 15
   },
   {
@@ -1121,7 +1121,7 @@
     "chain": "Fried Plantains",
     "tier": "Journaleros",
     "final_building": "Yes",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -1130,7 +1130,7 @@
     "chain": "Fried Plantains",
     "tier": "Journaleros",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -1139,7 +1139,7 @@
     "chain": "Fried Plantains",
     "tier": "Journaleros",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -1148,7 +1148,7 @@
     "chain": "Ponchos",
     "tier": "Journaleros",
     "final_building": "Yes",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -1157,7 +1157,7 @@
     "chain": "Ponchos",
     "tier": "Journaleros",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -1166,7 +1166,7 @@
     "chain": "Tortillas",
     "tier": "Obreros",
     "final_building": "Yes",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -1175,7 +1175,7 @@
     "chain": "Tortillas",
     "tier": "Artisans",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 60
   },
   {
@@ -1184,7 +1184,7 @@
     "chain": "Tortillas",
     "tier": "Obreros",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 60
   },
   {
@@ -1193,7 +1193,7 @@
     "chain": "Bombins",
     "tier": "Obreros",
     "final_building": "Yes",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -1202,7 +1202,7 @@
     "chain": "Bombins",
     "tier": "Obreros",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -1211,7 +1211,7 @@
     "chain": "Bombins",
     "tier": "Journaleros",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -1220,7 +1220,7 @@
     "chain": "Bombins",
     "tier": "Journaleros",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 30
   },
   {
@@ -1229,7 +1229,7 @@
     "chain": "Bombins",
     "tier": "Journaleros",
     "final_building": "No",
-    "improved_by_electricity": "No",
+    "improved_by_electricity": false,
     "base_duration": 60
   }
 ]

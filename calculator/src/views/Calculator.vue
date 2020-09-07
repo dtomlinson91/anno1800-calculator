@@ -4,6 +4,8 @@
       <v-col cols="12">
         <div class="text-center">
           <h1>Calculator</h1>
+          <br />
+          <!-- {{ temp }} -->
         </div>
       </v-col>
     </v-row>
@@ -24,12 +26,19 @@
       <v-col cols="12">
         <v-data-table
           :headers="initial_data.headers"
-          :items="get_calculator_data"
+          :items="calculator_data.raw"
           :items-per-page="200"
+          sort-by="final_building"
+          :sort-desc="true"
           group-by="chain"
           show-group-by
+          hide-default-footer
           dense
         >
+
+        <template v-slot:[`item.electricity_supplied`]="{ item }">
+          <v-simple-checkbox v-model="item.electricity_supplied" :disabled="!item.improved_by_electricity"></v-simple-checkbox>
+        </template>
         </v-data-table>
       </v-col>
     </v-row>
@@ -61,17 +70,19 @@ export default {
       return [...new Set(chains)];
     },
   },
-  computed: {
-    get_calculator_data: function() {
+  computed: {},
+  watch: {
+    selected_chains: function(val) {
+      // Update the table with the selected user chains.
       const new_data = [];
-      for (let i = 0; i < this.selected_chains.length; i++) {
+      for (let i = 0; i < val.length; i++) {
         for (let j = 0; j < this.initial_data.raw.length; j++) {
-          if (this.selected_chains[i] === this.initial_data.raw[j].chain) {
+          if (val[i] === this.initial_data.raw[j].chain) {
             new_data.push(this.initial_data.raw[j]);
           }
         }
       }
-      return new_data;
+      this.calculator_data.raw = new_data;
     },
   },
 };
